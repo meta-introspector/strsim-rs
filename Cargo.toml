@@ -8,7 +8,7 @@ OSA, Damerau-Levenshtein, Jaro, Jaro-Winkler, and Sørensen-Dice.
 """
 edition = "2021"
 license = "MIT"
-rust-version = "1.56"
+# rust-version = "1.56"
 readme = "README.md"
 keywords = ["string", "similarity", "Hamming", "Levenshtein", "Jaro"]
 homepage = "https://github.com/rapidfuzz/strsim-rs"
